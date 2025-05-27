@@ -2,9 +2,18 @@
 title: Exclude Items Function Optimization
 date: 2025-05-24
 updated: 2025-05-24
-tags: [JavaScript, array, filter, Set, function_optimization, 国外班, 技术学习]
+tags:
+  - JavaScript
+  - array
+  - filter
+  - Set
+  - function_optimization
+  - 技术学习
 category: JavaScript Function Optimization
-language_focus: [vocabulary, reading, writing]
+language_focus:
+  - vocabulary
+  - reading
+  - writing
 ---
 
 # Exclude Items Function Optimization
