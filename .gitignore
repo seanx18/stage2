@@ -6,3 +6,11 @@
 *.njsproj
 *.sln
 *.sw?
+
+# macOS
+.DS_Store
+
+# Ignore everything except stage2 folder
+/*
+!/stage2/
+!/.gitignore
